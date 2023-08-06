@@ -1,6 +1,6 @@
 # QR Code Card Project
 
-![QR Code Card](./images/qr-code-card.png)
+![QR Code Card](./images/screenshots/screenshot.png)
 
 This project is a solution to the "QR Code Component" challenge offered by [Frontend Mentor](https://www.frontendmentor.io/). The challenge was to create a responsive QR code card using HTML and CSS. The QR code card serves as a promotional element that encourages users to improve their front-end skills by building projects.
 

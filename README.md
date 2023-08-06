@@ -17,7 +17,7 @@ This project is a solution to the "QR Code Component" challenge offered by [Fron
 
 ## Demo
 
-You can view the live demo of the QR code card [here](https://your-demo-url.com).
+You can view the live demo of the QR code card [here](https://iamdylanmj.github.io/Custom-QR-Code-Card/).
 
 ## Description
 
